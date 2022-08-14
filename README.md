@@ -16,5 +16,5 @@
 
 ### 📈 Activity Graph：
 
-![](https://activity-graph.herokuapp.com/graph?username=isolcat&theme=react-dark)
+![](https://activity-graph.herokuapp.com/graph?username=isolcat&theme=github)
 
