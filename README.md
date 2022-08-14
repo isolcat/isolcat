@@ -9,5 +9,7 @@
 
 ### 🏠 Blog：
 
-- **[https://juejin.cn/user/1170301184384622](https://juejin.cn/user/1170301184384622)**  
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isolcat)](https://github.com/anuraghazra/github-readme-stats)
+- **[https://juejin.cn/user/1170301184384622](https://juejin.cn/user/1170301184384622)**
+
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isolcat)](https://github.com/anuraghazra/github-readme-stats) |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
