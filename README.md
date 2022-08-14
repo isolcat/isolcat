@@ -1,4 +1,4 @@
-<p align="center"><img width="100%" src="./header.png" /></p>  
+<p align="center"><img width="100%" height="30%"  src="./header.png" /></p>  
 
 ### Hi, I'm [isolcat!](https://github.com/isolcat?tab=repositories)👋
 
