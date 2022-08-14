@@ -10,3 +10,5 @@
 ### 🏠 Blog：
 
 - **[https://juejin.cn/user/1170301184384622](https://juejin.cn/user/1170301184384622)**
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiisolcat=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
