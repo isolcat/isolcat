@@ -1,4 +1,4 @@
-### Hi, I'm [isolcat!]([https://isolcat.github.io/](https://github.com/isolcat?tab=repositories))👋
+### Hi, I'm [isolcat!](https://github.com/isolcat?tab=repositories)👋
 
 ### 🏗️ Learning：
 
