@@ -17,8 +17,15 @@
  <code><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></code>
 
 ### 🏠 Blog：
-
-- **[https://juejin.cn/user/1170301184384622](https://juejin.cn/user/1170301184384622)**
+<table>
+  <tr>
+    <td>
+      <a href="https://juejin.cn/user/1170301184384622" target="_blank">
+        <img width="150" src="./src/images/icons/juejin.png" alt="掘金">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isolcat)](https://github.com/anuraghazra/github-readme-stats)   
