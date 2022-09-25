@@ -21,7 +21,7 @@
   <tr>
     <td>
       <a href="https://juejin.cn/user/1170301184384622" target="_blank">
-        <img width="150" src="https://sm.ms/delete/hl4DoptkSXf7YVvGJidb2B39WC" alt="掘金">
+        <img src="https://s2.loli.net/2022/09/25/aV8WmcHFZsfYXMS.png"  alt="掘金">
       </a>
     </td>
   </tr>
