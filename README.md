@@ -22,12 +22,13 @@
     </td>
   </tr>
 </table>
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=isolcat&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isolcat&layout=compact&theme=buefy&hide_border=true" alt="" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=isolcat&count_private=true&show_icons=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isolcat&layout=compact&theme=buefy&hide_border=true" alt="" /> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
 
 
 
 ### 📈 Activity Graph：
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isolcat&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)   
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isolcat&layout=compact&theme=buefy&hide_border=true" alt="" />
 ![](https://activity-graph.herokuapp.com/graph?username=isolcat&theme=github)
   
