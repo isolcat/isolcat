@@ -24,5 +24,5 @@
 </table>
 
 ### 😽 Activity：
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=isolcat&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isolcat&layout=compact&theme=buefy&hide_border=true" alt="" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=isolcat&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isolcat&layout=compact&theme=vue&hide_border=true" alt="" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
