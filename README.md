@@ -6,4 +6,4 @@
   [![My Skills](https://skillicons.dev/icons?i=vue,vite,webpack,ts,git,html,css,js,nuxtjs,react,tailwind,jest&perline=4)](https://skillicons.dev)
 
 ##  Activity：
-![](https://github-readme-stats.vercel.app/api?username=isolcat&show_icons=true&count_private=true)
+![](https://raw.githubusercontent.com/isolcat/isolcat/main/assets/github-contribution-grid-snake.svg)              
