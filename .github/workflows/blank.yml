@@ -23,4 +23,4 @@ jobs:
         plugin_anilist_medias: anime
         plugin_anilist_sections: favorites, watching
         plugin_anilist_limit: 1
-        plugin_anilist_username: isolcat
+        plugin_anilist_user: isolcat
