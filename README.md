@@ -10,9 +10,13 @@
 
 <details> <summary>Recent Favourites</summary>
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31qhwwvxxluvdkmas6htxl2evdn4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31qhwwvxxluvdkmas6htxl2evdn4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false)]]
-  
-![self love](https://pic3.58cdn.com.cn/nowater/webim/big/n_v2c0a46aa6cf334890821bc9487461d79e.jpg)
+<div style="display: flex; align-items: center;">
+    <a href="https://spotify-github-profile.vercel.app/api/view?uid=31qhwwvxxluvdkmas6htxl2evdn4&redirect=true">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=31qhwwvxxluvdkmas6htxl2evdn4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" alt="spotify-github-profile" width="400" height="200">
+    </a>
+    <img src="https://pic3.58cdn.com.cn/nowater/webim/big/n_v2c0a46aa6cf334890821bc9487461d79e.jpg" alt="self love" width="200" height="200">
+</div>
+
   
 </details>
 
