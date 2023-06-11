@@ -3,7 +3,7 @@ name: AniList Metrics
 on:
   push:
     branches:
-      - main  # 替换为您的主要分支名称
+      - main
 
 jobs:
   generate_metrics:
@@ -35,4 +35,4 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
-          branch: main  # 替换为您的主要分支名称
+          branch: main
