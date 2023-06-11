@@ -5,9 +5,7 @@
 ##  My Tech Stack
   [![My Skills](https://skillicons.dev/icons?i=vue,vite,webpack,ts,git,html,css,js,nuxtjs,react,tailwind,jest&perline=4)](https://skillicons.dev)
 
-##  My github contributions：
-![](https://raw.githubusercontent.com/isolcat/isolcat/main/assets/github-contribution-grid-snake.svg)    
-
+![Metrics](https://metrics.lecoq.io/isolcat?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FHong_Kong)
 <details> <summary>Recent Favourites</summary>
 <div>
     <a href="https://spotify-github-profile.vercel.app/api/view?uid=31qhwwvxxluvdkmas6htxl2evdn4&redirect=true">
