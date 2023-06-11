@@ -10,9 +10,9 @@
 
 <details> <summary>Recent Favourites</summary>
 <div>
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=31qhwwvxxluvdkmas6htxl2evdn4&redirect=true" align="left">
+    <a href="https://spotify-github-profile.vercel.app/api/view?uid=31qhwwvxxluvdkmas6htxl2evdn4&redirect=true">
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=31qhwwvxxluvdkmas6htxl2evdn4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" alt="spotify-github-profile">
-    <img src="https://pic3.58cdn.com.cn/nowater/webim/big/n_v2c0a46aa6cf334890821bc9487461d79e.jpg" alt="self love" style="background-size: 50% auto;">
+    <img src="https://pic3.58cdn.com.cn/nowater/webim/big/n_v2c0a46aa6cf334890821bc9487461d79e.jpg" alt="self love">
     </a>
 </div>
 </details>
