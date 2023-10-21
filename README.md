@@ -16,7 +16,5 @@
       
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qhwwvxxluvdkmas6htxl2evdn4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31qhwwvxxluvdkmas6htxl2evdn4&redirect=true)
   
-![self love](https://pic8.58cdn.com.cn/nowater/webim/big/n_v2449fea9656204019ab5d42b88231ddca.jpg)
-  
 </details>
 
