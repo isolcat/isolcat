@@ -9,5 +9,3 @@
 - I'm currently in the last year of my student career
 - Write code that changes the world
 
-
-![](https://raw.githubusercontent.com/isolcat/isolcat/main/assets/github-contribution-grid-snake.svg)
